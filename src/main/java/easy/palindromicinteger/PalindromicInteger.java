@@ -1,4 +1,4 @@
-package palindromicinteger;
+package easy.palindromicinteger;
 
 import java.util.ArrayList;
 import java.util.Arrays;

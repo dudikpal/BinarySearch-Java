@@ -1,4 +1,4 @@
-package palindromicinteger;
+package easy.palindromicinteger;
 
 import org.junit.jupiter.api.Test;
 
