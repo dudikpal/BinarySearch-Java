@@ -1,4 +1,4 @@
-package easy.anagramchecks.maxproductoftwonumbers;
+package easy.maxproductoftwonumbers;
 
 import org.junit.jupiter.api.Test;
 

@@ -1,4 +1,4 @@
-package easy.anagramchecks.maxproductoftwonumbers;
+package easy.maxproductoftwonumbers;
 
 import java.util.Arrays;
 import java.util.Comparator;
