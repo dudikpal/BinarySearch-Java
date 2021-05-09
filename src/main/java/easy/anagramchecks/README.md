@@ -31,3 +31,6 @@ Solved 3,654
 Attempted 4,012  
 Rate 91.08%  
 Your code took 250 milliseconds — faster than 4.37% in Java
+
+With Map & forEach:
+Your code took 107 milliseconds — faster than 12.02% in Java
